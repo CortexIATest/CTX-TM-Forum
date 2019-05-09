@@ -4,14 +4,14 @@
 Cortex Subtasks which interact with TM-Forum.
 
 The TM Forum modules below are contained within this Cortex Library. The specification for each module can be found by clicking on the module name.
-* [Service Activation Configuration](#ServiceActivationConfiguration)
-* [Service Catalogue](#ServiceCatalogue)
-* [Service Inventory](#ServiceInventory)
-* [Service Ordering](#ServiceOrdering)
-* [Service Problem](#ServiceProblem)
-* [Service Test](#ServiceTest)
-* [Service Qualification](#ServiceQualification)
-* [Usage Consumption](#UsageConsumption)
+* [Service Activation Configuration](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF640%20Service%20Activation%20and%20Configuration%20API%20REST%20Specification.pdf)
+* [Service Catalogue](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF633%20Service%20Catalog%20Management%20API%20REST%20Specification.pdf)
+* [Service Inventory](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF638%20Service%20Inventory%20API%20REST%20Specification.pdf)
+* [Service Ordering](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF641%20Service%20Ordering%20API%20REST%20Specification.pdf)
+* [Service Problem](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF656%20Service%20Problem%20Management%20API%20REST%20Specification.pdf)
+* [Service Test](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF653%20Service%20Test%20Management%20API%20REST%20Specification.pdf)
+* [Service Qualification](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF645%20Service%20Qualification%20Management%20API%20REST%20Specification.pdf)
+* [Usage Consumption](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF677%20Usage%20Consumption%20API%20REST%20Specification.pdf)
 
 ## Table of Contents
 1) [Dependencies](#dependencies)
