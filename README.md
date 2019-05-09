@@ -25,7 +25,7 @@ The TM Forum modules below are contained within this Cortex Library. The specifi
 
 ## Dependencies
 ### Cortex Version
-This version of the CTX-TM-Forum module was developed in Cortex v6.5. Some functionality may not be available in other versions of Cortex.
+This version of the CTX-TM-Forum module was developed for Cortex v6.5. Some functionality may not be available in other versions of Cortex.
 
 ### Files
 The CTX-TM-Forum module requires the following files:
