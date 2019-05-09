@@ -32,10 +32,10 @@ The CTX-TM-Forum module requires the following files:
 * [CTX-TM-Forum Studio Package](https://github.com/CortexIATest/CTX-TM-Forum/releases/download/v1.0/CTX-TM-Forum.studiopkg)
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/CTX%20-%20TM-Forum%20-%20Deployment%20Plan.pdf).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/CTX-TM-Forum%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/CTX%20-%20TM-Forum%20-%20User%20Guide.pdf). Configuring of the subtask's inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/CTX-TM-Forum%20-%20User%20Guide.pdf). Configuring of the subtask's inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
