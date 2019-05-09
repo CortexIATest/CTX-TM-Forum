@@ -29,7 +29,7 @@ This version of the CTX-TM-Forum module was developed in Cortex v6.5. Some funct
 
 ### Files
 The CTX-TM-Forum module requires the following files:
-* [CTX-TM-Forum Studio Package](https://github.com/CortexIATest/CTXExcel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.2.studiopkg)
+* [CTX-TM-Forum Studio Package](https://github.com/CortexIATest/CTX-TM-Forum/releases/download/v1.0/CTX-TM-Forum.studiopkg)
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/CTX%20-%20TM-Forum%20-%20Deployment%20Plan.pdf).
