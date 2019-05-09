@@ -1,4 +1,4 @@
-<a href="https://www.cortex-ia.co.uk/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
+<a href="https://www.cortex-ia.com/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
 
 # CTX-TM-Forum
 Cortex Subtasks which interact with TM-Forum.
