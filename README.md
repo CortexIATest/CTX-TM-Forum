@@ -3,7 +3,7 @@
 # CTX-TM-Forum
 Cortex Subtasks which interact with TM Forum NaaS Component Suite.
 
-The TM Forum TM Forum NaaS Component Suite modules below are contained within this Cortex Library. The specification for each module can be found by clicking on the module name.
+The TM Forum NaaS Component Suite modules below are contained within this Cortex Library. The specification for each module can be found by clicking on the module name.
 * [Service Activation and Configuration](https://www.tmforum.org/resources/specification/tmf640-service-activation-and-configuration-api-rest-specification-r18-5-0/)
 * [Service Catalogue](https://www.tmforum.org/resources/specification/tmf633-service-catalog-api-rest-specification-r18-5-0/)
 * [Service Inventory](https://www.tmforum.org/resources/specification/tmf638-service-inventory-api-rest-specification-r18-5-0/)
