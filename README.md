@@ -4,14 +4,14 @@
 Cortex Subtasks which interact with TM Forum NaaS Component Suite.
 
 The TM Forum TM Forum NaaS Component Suite modules below are contained within this Cortex Library. The specification for each module can be found by clicking on the module name.
-* [Service Activation Configuration](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF640%20Service%20Activation%20and%20Configuration%20API%20REST%20Specification.pdf)
-* [Service Catalogue](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF633%20Service%20Catalog%20Management%20API%20REST%20Specification.pdf)
-* [Service Inventory](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF638%20Service%20Inventory%20API%20REST%20Specification.pdf)
-* [Service Ordering](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF641%20Service%20Ordering%20API%20REST%20Specification.pdf)
-* [Service Problem](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF656%20Service%20Problem%20Management%20API%20REST%20Specification.pdf)
-* [Service Test](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF653%20Service%20Test%20Management%20API%20REST%20Specification.pdf)
-* [Service Qualification](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF645%20Service%20Qualification%20Management%20API%20REST%20Specification.pdf)
-* [Usage Consumption](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF677%20Usage%20Consumption%20API%20REST%20Specification.pdf)
+* [Service Activation and Configuration](https://www.tmforum.org/resources/specification/tmf640-service-activation-and-configuration-api-rest-specification-r18-5-0/)
+* [Service Catalogue](https://www.tmforum.org/resources/specification/tmf633-service-catalog-api-rest-specification-r18-5-0/)
+* [Service Inventory](https://www.tmforum.org/resources/specification/tmf638-service-inventory-api-rest-specification-r18-5-0/)
+* [Service Ordering](https://www.tmforum.org/resources/specification/tmf641-service-ordering-api-rest-specification-r18-5-0/)
+* [Service Problem](https://www.tmforum.org/resources/specification/tmf656-service-problem-api-rest-specification-r18-5-0/)
+* [Service Test](https://www.tmforum.org/resources/specification/tmf653-service-test-api-rest-specification-r18-5-0/)
+* [Service Qualification](https://www.tmforum.org/resources/specification/tmf645-service-qualification-api-rest-specification-r18-5-0/)
+* [Usage Consumption](https://www.tmforum.org/resources/specification/tmf677-usage-consumption-api-rest-specification-r18-5-0/)
 
 ## Table of Contents
 1) [Dependencies](#dependencies)
