@@ -1,9 +1,9 @@
 <a href="https://www.cortex-ia.com/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
 
 # CTX-TM-Forum
-Cortex Subtasks which interact with TM Forum NAAS Component Suite.
+Cortex Subtasks which interact with TM Forum NaaS Component Suite.
 
-The TM Forum TM Forum NAAS Component Suite modules below are contained within this Cortex Library. The specification for each module can be found by clicking on the module name.
+The TM Forum TM Forum NaaS Component Suite modules below are contained within this Cortex Library. The specification for each module can be found by clicking on the module name.
 * [Service Activation Configuration](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF640%20Service%20Activation%20and%20Configuration%20API%20REST%20Specification.pdf)
 * [Service Catalogue](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF633%20Service%20Catalog%20Management%20API%20REST%20Specification.pdf)
 * [Service Inventory](https://github.com/CortexIATest/CTX-TM-Forum/blob/master/TM%20Forum%20Documentation/TMF638%20Service%20Inventory%20API%20REST%20Specification.pdf)
