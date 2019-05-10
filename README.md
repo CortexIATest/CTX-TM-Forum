@@ -43,7 +43,7 @@ Unfortunately, we cannot offer pull requests at this time or accept any improvem
 ## Versioning
 The CTX-TM-Forum module contained within this Cortex Library has the following versions:
 
-TM Forum Version | Creation Date | Functionality | Notes
+TM Forum Release | Creation Date | Functionality | Notes
 ------------- | ----------- | ----------- | -----------
 18.5 | 07/05/2019 | Service Activation Configuration | Created
 18.5 | 07/05/2019 | Service Catalogue | Created
